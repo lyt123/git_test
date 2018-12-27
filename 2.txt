@@ -1,0 +1,11 @@
+n pushed online
+If the commit only exists in your local repository and has not been pushed to GitHub, you can amend the commit message with the git commit --amend command.
+
+On the command line, navigate to the repository that contains the commit you want to amend.
+Type git commit --amend and press Enter.
+In your text editor, edit the commit message and save the commit. You can also add a co-author by adding a trailer to the commit. For more information, see "Creating a commit with multiple authors."
+The new commit and message will appear on GitHub the next time you push.
+
+You can change the default text editor for Git by changing the core.editor setting. For more information, see "Basic Client Configuration" in the Git manual.
+
+Amending older or multiple commit messages

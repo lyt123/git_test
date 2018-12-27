@@ -1,0 +1,15 @@
+ommits / Changing a commit message
+
+How can we help?
+
+Changing a commit message
+If a commit message contains unclear, incorrect, or sensitive information, you can amend it locally and push a new commit with a new message to GitHub. You can also amend a commit to add a co-author.
+
+Rewriting the most recent commit message
+You can change the most recent commit message using the git commit --amend command.
+
+In Git, the text of the commit message is part of the commit. Changing the commit message will change the commit ID--i.e., the SHA1 checksum that names the commit. Effectively, you are creating a new commit that replaces the old one.
+
+Commit has not been pushed online
+If the commit only exists in your local repository and has not been pushed to GitHub, you can amend the commit message with the git commit --amend command.
+
