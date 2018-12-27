@@ -13,3 +13,27 @@ In Git, the text of the commit message is part of the commit. Changing the commi
 Commit has not been pushed online
 If the commit only exists in your local repository and has not been pushed to GitHub, you can amend the commit message with the git commit --amend command.
 
+
+
+
+
+
+
+
+
+
+ part of the commit. Changing the commit message will change the commit ID--i.e., the SHA1 checksum that names the commit. Effectively, you are creating a new commit that replaces the old one.
+
+Commit has not been pushed online
+If the commit only exists in your local repository and has not been pushed to GitHub, you can amend the commit message with the git commit --amend command.
+
+ part of the commit. Changing the commit message will change the commit ID--i.e., the SHA1 checksum that names the commit. Effectively, you are creating a new commit that replaces the old one.
+
+Commit has not been pushed online
+If the commit only exists in your local repository and has not been pushed to GitHub, you can amend the commit message with the git commit --amend command.
+
+ part of the commit. Changing the commit message will change the commit ID--i.e., the SHA1 checksum that names the commit. Effectively, you are creating a new commit that replaces the old one.
+
+Commit has not been pushed online
+If the commit only exists in your local repository and has not been pushed to GitHub, you can amend the commit message with the git commit --amend command.
+
